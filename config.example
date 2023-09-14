@@ -1,0 +1,8 @@
+# Create config.py file and put all the following variables in it.
+
+apikey = "your_openai_api_key"
+email = "Sender's Email"
+password = "Email_SMTP_Password"
+receiver_email_id = "Reciever's Mail id"
+vs_code_path = "vs_code_path_in_your_system"
+music_file_path = "music_filepath_path_in_your_system"
