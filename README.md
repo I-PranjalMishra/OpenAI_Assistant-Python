@@ -17,8 +17,8 @@ Welcome to the Desktop Assistant with OpenAI repository! This project enables yo
 
 ## Technologies Used
 
-**Python**
-**OpenAI API**
+* **Python**
+* **OpenAI API**
 
 ## Acknowledgements
 
